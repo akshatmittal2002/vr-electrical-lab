@@ -1,6 +1,6 @@
 # VR electrical lab
 Develop electrical circuits and understand how current flows through electrons and its effect on various components in virtual reality.
-Note: We have used the Oculus Rift HMD for our testing, and the below steps are in accordance with its controls. The version of Unity used was - 
+Note: We have used the Oculus Rift HMD for our testing, and the below steps are in accordance with its controls. 
 
 ## Steps to make a circuit:
 1. Start the project using Unity hub on your system. Connect the HMD to the system.
